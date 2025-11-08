@@ -5,16 +5,6 @@
   Strong CS fundamentals • Clean code • Pragmatic engineering
 </p>
 
-<p align="center">
-  <a href="https://github.com/Filippov-Nikolay">
-    <img src="https://komarev.com/ghpvc/?username=Filippov-Nikolay&style=flat-square" alt="profile views"/>
-  </a>
-  <a href="https://github.com/Filippov-Nikolay?tab=followers">
-    <img src="https://img.shields.io/github/followers/Filippov-Nikolay?label=Followers&style=flat-square" alt="followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Building-2ea44f?style=flat-square" alt="status"/>
-</p>
-
 ---
 
 ### 🚀 About me
@@ -62,17 +52,6 @@
 - Balance abstraction with practicality
 - Automate repetitive tasks; document the rest
 - Measure performance before optimizing
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Filippov-Nikolay&show_icons=true&hide_title=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippov-Nikolay&layout=compact&hide_title=true" alt="top langs"/>
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Filippov-Nikolay&hide_longest_streak=true" alt="streak"/>
-</p>
 
 ---
 
