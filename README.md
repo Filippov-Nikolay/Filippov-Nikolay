@@ -62,14 +62,6 @@
 
 ---
 
-### 🧩 Engineering principles
-- Write simple, testable, and readable code  
-- Balance abstraction with practicality  
-- Automate repetitive tasks; document the rest  
-- Measure performance before optimizing
-
----
-
 ### 📫 Contact
 - Email: <a href="mailto:filippovnikolay195@gmail.com">filippovnikolay195@gmail.com</a>  
 - Telegram: <a href="https://t.me/filippovnikolay">@filippovnikolay</a>
