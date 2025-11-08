@@ -56,10 +56,8 @@
 ---
 
 ### 📫 Contact
-<!-- Replace with your links -->
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-handle  
-- Telegram: https://t.me/your_handle
+- Email: filippovnikolay195@gmail.com  
+- Telegram: https://t.me/filippovnikolay
 
 <!--
 Optional sections to customize later:
