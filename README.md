@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Nikolay — Full-Stack Developer</h1>
-<p align="center">
+<h1 align="lfet">Hi, I'm Nikolay — Full-Stack Developer</h1>
+<p align="left">
   I build end-to-end solutions with Angular/React on the front and Node.js/ASP.NET on the back.<br/>
   Strong CS fundamentals • Clean code • Pragmatic engineering
 </p>
