@@ -62,13 +62,6 @@
 
 ---
 
-### 🌐 Languages
-- Ukrainian — Native  
-- Russian — Native  
-- English — Elementary
-
----
-
 ### 🧩 Engineering principles
 - Write simple, testable, and readable code  
 - Balance abstraction with practicality  
