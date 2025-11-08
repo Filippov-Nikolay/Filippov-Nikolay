@@ -56,22 +56,6 @@
 
 ---
 
-### 🌟 Featured projects
-
-**Clone GitHub (2024–present)**  
-Team of three, exam project. Led process (Trello, comms), built responsive landing with theme-aware nav, designed DB architecture, implemented auth (register/login/password recovery) and EF-based data flow.  
-*Stack:* HTML, CSS, React, C#, ASP.NET. 
-
-**Amtlis / Clone YouTube (2023)**  
-Exam project with one teammate: JSON-based data model, video upload/playback, custom navigation; AJAX for dynamic header loading, jQuery for interactivity.  
-*Stack:* HTML, CSS, JavaScript, jQuery. 
-
-**PlusWeb (2022)**  
-College thesis (6 months): landing for web-dev services. Interface designed in Figma; frontend/back-end on HTML/CSS/JS/PHP + phpMyAdmin; BEM methodology. Defended with top grade; later used by faculty as an exemplary thesis.  
-*Stack:* HTML, CSS, JS, PHP. 
-
----
-
 ### 🎓 Education
 - **Odessa Corporate Computer College** — 2020–2022.   
 - **Odessa Technological University STEP** — 2022–present. 
