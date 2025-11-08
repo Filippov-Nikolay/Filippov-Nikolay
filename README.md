@@ -58,18 +58,3 @@
 ### 📫 Contact
 - Email: filippovnikolay195@gmail.com  
 - Telegram: https://t.me/filippovnikolay
-
-<!--
-Optional sections to customize later:
-
-### 🔭 Current focus
-- Building full-stack apps with Angular/React + Node.js/ASP.NET
-- Strengthening system design and architecture docs (UML)
-
-### 🌱 Learning
-- Add your current learning goals here
-
-### 🗂️ Featured projects
-- [Project Name](https://github.com/Filippov-Nikolay/your-repo) — one-line description
-- [Project Name](https://github.com/Filippov-Nikolay/your-repo) — one-line description
--->
